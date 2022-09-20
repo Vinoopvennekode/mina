@@ -1,0 +1,429 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+.header{
+    width: 100%;
+    height: 163px;
+   
+}
+
+.top-head{
+    width: 100%;
+    height: 50%;
+    border-bottom: 3px solid rgb(246, 247  , 246);;
+    
+}
+
+.all{
+    width: 1197.39px;
+    margin: 0 auto;
+    height: 80px;
+}
+
+.center{
+    height: 84px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.no-credit{
+    display:flex;
+    justify-content: space-between;
+    width: 313px;
+    align-items: center;
+}
+.no-credit p{
+    font-family:'Roboto', sans-serif;
+    font-size: 14px;
+    letter-spacing: 0.24px;
+
+}
+.credit-btn a{
+    padding: 10px 24px;
+    border-radius: 50px;
+    background-color: rgb(88, 59,182);
+    text-decoration: none;
+    
+    
+}
+.icon1{
+     font-family:'Roboto', sans-serif;
+    font-size: 10px;
+    color: white;
+    
+}
+.all-temp p{
+display: flex;
+}
+.all-temp p{
+    margin-top: 14px;
+    font-family:'Roboto', sans-serif;
+    font-size: 16px;
+}
+.bottom-head{
+    width: 1200px;
+    height: 50%;
+    
+    margin: 0 auto;
+}
+li{
+    
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+    color: black;
+   
+}
+
+
+.nav{
+    width: 1200px;
+    height: 84px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.nav1 ul li a{
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+}
+.nav1 ul li{
+        width: 99px;
+    display: inline-block;
+    
+}
+
+.banner{
+    background: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/minattnvs/Rectangle-YZ9P6kWjMnUBNL6W.png);
+    background-size: cover;
+    background-position: center;
+    height: 788px;
+}
+.banner-text{
+    text-align: center;
+    color: #fff;
+    padding-top: 180px;
+    
+}
+.banner-text h1{
+    font-size: 96px;
+    font-weight: 550;
+    font-family: "poppins", sans-serif;
+}
+.material-symbols-outlined{
+    position: relative;
+
+    left: -63px;
+    bottom: -5px;
+}
+.shopingbag{
+    position: relative;
+    margin-bottom: -5px;
+}
+.banner-text p{
+    font-family:'DM Sans', sans-serif;
+    font-size: 20px;
+    margin-top: -69px;
+}
+.banner-btn{
+    padding: 52px;
+    
+}
+.banner-btn a{
+    padding: 17px 42px;
+    font-family: "poppins", sans-serif;
+    font-size: 16px;
+    background-color: white;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+    color: black;
+}
+
+.our-best-sellers{
+    height: 1004px;
+    width: 1224px;
+    margin-left: 62.5px;
+}
+.best-sellers{
+    height: 350px;
+    width: 1224px;
+    text-align: center;
+}
+.images{
+    height: 400px;
+    width: 1224px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.buy-now{
+    height:250px;
+    width: 1224px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.image1{
+    height: 400px;
+    width: 287.97px;
+    text-align: center;
+}
+.image1 h2{
+    font-family: "poppins", sans-serif;
+    font-size: 24px;
+    color: rgb(77,44,87);
+
+}
+.image1 p{
+    font-family:'DM Sans', sans-serif;
+    font-size: 18px;
+    color: rgb(77,44,87);
+}
+.best-sellers h1{
+    padding-top: 84px;
+    color: rgb(77,44,87);
+    font-family:"poppins", sans-serif;
+    font-size: 48px;
+}
+.banner-btn-ab a{
+    padding: 17px 42px;
+    font-family: "poppins", sans-serif;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(77,44,87);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.banner-btn-ab a:hover{
+    background-color:rgb(77,44,87);
+    color: #fff;
+    
+
+}
+.home-decor{
+    width: 100%;
+    height: 693px;
+    background-image: url(images/homedecor.png);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.home-decor h1{
+    font-size:96px;
+    font-family: "poppins", sans-serif;
+    color: white;
+    padding-top: 212px;
+}
+.home-decor p{
+    font-family:'DM Sans', sans-serif;
+    font-size: 20px;
+    padding-top: 10px;
+    margin-top:-69px ;
+    color: white;
+}
+.about-mina{
+    padding-top: 161px;
+
+}
+.images2{
+    width: 1224px;
+    margin-left:62.5px ;
+    height: 715px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.photo{
+    width: 600px;
+    height: 715px;
+    
+}
+.photo h5{
+    margin-top: 17px;
+    font-size:32px;
+    font-family: "poppins", sans-serif;
+}
+.photo p{
+    margin-top: -38px;
+    font-size:20px;
+    font-family:'DM Sans', sans-serif;
+}
+.banner-btna{
+    padding-top: 30px;
+}
+.banner-btn a{
+    padding: 15px 40px;
+    font-family: "poppins", sans-serif;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    
+    color: rgb(77,44,87);
+}
+.banner-btna a{
+    padding: 15px 40px;
+    font-family: "poppins", sans-serif;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(77,44,87);
+    color: rgb(77,44,87);
+    text-decoration: none;
+}
+
+
+
+
+.form{
+    width: 100%;
+    height: 624px;
+}
+
+.form{
+    text-align: center;
+    background-image: url(images/form\ photo.png);
+    background-repeat: no-repeat;
+   
+    
+}
+.form h2{
+    font-size:64px;
+    font-family: "poppins", sans-serif;
+    color: #fff;
+    padding-top: 171px;
+}
+.text1{
+    margin-top: 12px;
+    width: 391.98px;
+    height: 48px;
+    border: none;
+    background-color: rgba(245,248,251,.6);
+}
+
+.submit-btn{
+    margin-top: 20px;
+    margin-left: 604px;
+    width: 90px;
+    padding: 17px 26px;
+    font-family: "poppins", sans-serif;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    
+    color: rgb(77,44,87);
+}
+.submit-btn a{
+    text-decoration: none;
+    color:  rgb(77,44,87);
+    
+}
+.instagram{
+    width: 1224px;
+    height: 784px;
+    margin-left: 62.5px;
+    
+}
+.instagram-text{
+    width: 1224px;
+    height: 254px;
+    
+    text-align: center;
+    margin-top: 25px;
+    
+}
+.instagram-text h3{
+    font-family: "poppins", sans-serif;
+    font-size: 48px;
+    color: rgb(77,44,87);
+    padding-top: 53px;
+}
+.instagram-images{
+    height: 368px;
+    display: flex;
+    
+    justify-content: space-between;
+    
+}
+.images3{
+    width: 391.98px;
+   
+}
+.link-instagram{
+   text-align: center;
+    margin-top: 74px;
+}
+.link-instagram a{
+    
+    font-family: "poppins", sans-serif;
+    font-size: 24px;
+    color: rgb(77,44,87);
+    font-weight: 600;
+    text-decoration-color:rgb(77,44,87); 
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.footer{
+    width: 100%;
+    
+    height:272px;
+  
+    background-color: rgb(246, 247  , 246);
+}
+
+.mina{
+    width: 1224px;
+    height: 150px;
+    margin-left: 62.5px;
+    margin-top: 62px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.logo h6{
+    margin-top: 85px;
+    font-family: "poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+.payment p{
+    font-size:18px;
+    text-decoration: underline;
+    font-family:'DM Sans', sans-serif;
+    cursor: pointer;
+}
+.payment{
+    margin-top: 69px;
+    width: 379px;
+    display: flex;
+    flex-direction: row;
+   
+    justify-content: space-between;
+}
+
+.social-logo{
+    margin-top: 4px;
+    width: 1224px;
+    margin-left: 62.5px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo-images{
+    width: 20px;
+    height: 20px;
+}
+.soicial-logo-3{
+    width: 139.97px;
+    display: flex;
+    justify-content: space-between;
+}
+.zyro {
+    margin-top:-10px;
+    font-size: 16px;
+    font-family:'DM Sans', sans-serif;
+}
